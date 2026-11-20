@@ -1,0 +1,1 @@
+"use strict";(self.legacyJsonp=self.legacyJsonp||[]).push([[97335],{774683(n,o,s){var e=(0,s(486245).A)("/comparison/select/:id");"u">typeof window&&(window.__PWS_LOADED_HANDLERS__=window.__PWS_LOADED_HANDLERS__||[]).push(["www/comparison/select/[id]",function(){return e}])}},function(n){n.O(0,[29881,34161,91796],function(){return n(n.s=774683)}),n.O()}]);

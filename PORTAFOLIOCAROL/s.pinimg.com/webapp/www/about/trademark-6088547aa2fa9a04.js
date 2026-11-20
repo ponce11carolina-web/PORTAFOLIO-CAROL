@@ -1,0 +1,1 @@
+"use strict";(self.legacyJsonp=self.legacyJsonp||[]).push([[48967],{618260(n,_,o){var t=o(169859).A;"u">typeof window&&(window.__PWS_LOADED_HANDLERS__=window.__PWS_LOADED_HANDLERS__||[]).push(["www/about/trademark",function(){return t}])}},function(n){n.O(0,[10289,15225,34161,38592,3994,46196,47523,63745,78180,87300,91796,93924],function(){return n(n.s=618260)}),n.O()}]);

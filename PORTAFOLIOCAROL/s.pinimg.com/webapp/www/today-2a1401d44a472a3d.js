@@ -1,0 +1,1 @@
+"use strict";(self.legacyJsonp=self.legacyJsonp||[]).push([[7883],{745174(n,_,o){var t=(0,o(486245).A)("https://www.pinterest.com/today/");"u">typeof window&&(window.__PWS_LOADED_HANDLERS__=window.__PWS_LOADED_HANDLERS__||[]).push(["www/today",function(){return t}])}},function(n){n.O(0,[29881,34161,91796],function(){return n(n.s=745174)}),n.O()}]);

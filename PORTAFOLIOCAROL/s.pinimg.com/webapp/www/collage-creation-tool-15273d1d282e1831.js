@@ -1,0 +1,1 @@
+"use strict";(self.legacyJsonp=self.legacyJsonp||[]).push([[34412],{511994(o,n,e){var t=(0,e(486245).A)("/collage-creation-tool");"u">typeof window&&(window.__PWS_LOADED_HANDLERS__=window.__PWS_LOADED_HANDLERS__||[]).push(["www/collage-creation-tool",function(){return t}])}},function(o){o.O(0,[29881,34161,91796],function(){return o(o.s=511994)}),o.O()}]);

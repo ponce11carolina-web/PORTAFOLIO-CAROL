@@ -1,0 +1,1 @@
+"use strict";(self.legacyJsonp=self.legacyJsonp||[]).push([[95217],{850620(o,n,s){var e=(0,s(486245).A)("/comparison/select/board/:boardId");"u">typeof window&&(window.__PWS_LOADED_HANDLERS__=window.__PWS_LOADED_HANDLERS__||[]).push(["www/comparison/select/board/[boardId]",function(){return e}])}},function(o){o.O(0,[29881,34161,91796],function(){return o(o.s=850620)}),o.O()}]);
